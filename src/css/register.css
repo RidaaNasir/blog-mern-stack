@@ -9,6 +9,7 @@ input, select, textarea{
     padding: 0.6rem 1rem;
     border-radius: var(--radius-1);
     resize: none;
+    
 }
 
 .form__error-message{
