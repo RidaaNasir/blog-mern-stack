@@ -11,7 +11,7 @@ const Header = () => {
           <img src='' alt=''/>
         </Link>
         <ul className="nav__menu">
-          <li><Link to="/profile">Ernest Achiever</Link></li>
+          <li><Link to="/profile/sdfsdf">Ernest Achiever</Link></li>
           <li><Link to="/create">created post</Link></li>
           <li><Link to="/authors">Authors</Link></li>
           <li><Link to="/logout">logout</Link></li>
