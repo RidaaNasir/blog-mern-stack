@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import ReactQuill from  'react-quill'
 import 'react-quill/dist/quill.snow.css'
-import '../css/editpost.css'
+import '../css/createpost.css'
 
 const EditPost = () => {
 
