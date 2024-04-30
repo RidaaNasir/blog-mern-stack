@@ -32,3 +32,16 @@
     display: flex;
     gap: 1rem;
 }
+
+@media screen and (max-width: 800px) {
+    .dashboard__post{
+        flex-direction: column;
+    }
+
+    .dashboard__post-info{
+        gap: 1.5rem;
+    }
+    .dashboard_post-thumbnail{
+        width: 5rem;
+    }
+    }

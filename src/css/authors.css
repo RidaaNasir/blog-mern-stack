@@ -28,3 +28,10 @@
 .author__info p{
     margin-top: 1rem;
 }
+
+@media screen and (max-width: 800px) {
+.authors__container{
+    grid-template-columns: 1fr;
+    gap: 1.2rem;
+  }
+}

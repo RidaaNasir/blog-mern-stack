@@ -1,5 +1,13 @@
 .ql-editor{
     overflow: scroll;
     background: var(--color-white);
-    height: 10rem !important;
+    height: 5rem !important;
 }
+
+
+@media screen and (max-width: 800px) {
+    
+    .register, .login, .create-post{
+        width: 100%;
+    }
+    }
